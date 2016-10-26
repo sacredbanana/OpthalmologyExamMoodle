@@ -1,0 +1,13 @@
+Instructions for the installation of the system:
+1) Install Moodle on the server. For detailed instructions on this, refer to https://docs.moodle.org/27/en/Installing_Moodle
+2) Unzip the provided "SourceCode.zip" file into the Moodle site.
+3) Open the site and log in as administrator.
+4) To use the theme, click on Site Administration on the left column at the bottom.
+5) Select Appearance.
+6) Select Themes.
+7) Select Theme selector.
+8) In the section for the "Default" device type, click on Change Theme.
+9) Under RACE, select Use Theme.
+10) Click Continue.
+
+Refer to acceptance testing document for full step-by-step guides for running acceptance tests on the system.

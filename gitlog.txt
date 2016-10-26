@@ -1,0 +1,71 @@
+commit 0bf194b1c73eb7efe38f2ac54d6c5e29684640f1
+Author: Jesper Madsen <jesper@sobuno.dk>
+Date:   Thu Oct 16 20:30:37 2014 +0800
+
+    Removed duplicate clean_ functions
+
+commit ea2255f17bcc66ce7b8dbad34dcb72c29ba5f9ef
+Author: Jesper Madsen <jesper@sobuno.dk>
+Date:   Thu Oct 16 20:14:21 2014 +0800
+
+    Fixed errors regarding duplicate clean_ functions
+
+commit 008427e5586fcad123c261611a51abde2593d27a
+Author: Jesper Madsen <jesper@sobuno.dk>
+Date:   Tue Oct 14 11:37:45 2014 +0800
+
+    English name for essaynoedit is now Essay Uneditable instead of Essay No Edit
+
+commit bf02e9121874d6b3761e39e88da84d80cd383f22
+Author: Jesper Madsen <jesper@sobuno.dk>
+Date:   Tue Oct 14 11:29:47 2014 +0800
+
+    Restructuring of repository to add theme + cleanup.
+
+commit e9b46e1709072ad99f8cf69c13c7ea2a5abfa2cc
+Author: Jesper Madsen <jesper@sobuno.dk>
+Date:   Tue Oct 14 11:27:12 2014 +0800
+
+    getReflectedPropertyValue will now only be defined once
+
+commit 2af5e8faef7cbe16b3bc45869a7a68f3142addba
+Author: Jesper Madsen <jesper@sobuno.dk>
+Date:   Tue Sep 23 13:27:44 2014 +0800
+
+    Staged Essay - If the previous question is an essay or a subtype
+    thereof, this question will only unlock once that question has been
+    answered.
+
+commit 36b69364001978d45ce617eaeca6e403c5089df7
+Author: Jesper Madsen <jesper@sobuno.dk>
+Date:   Sun Sep 14 15:40:14 2014 +0800
+
+    Fixed error in Short Answer No Edit's plugin name
+    Added Multichoice No Edit - It may currently only be working for single
+    select responses
+
+commit c40f3e7f46709e41dc3dc2f2b6305310f3aaa5e7
+Author: Jesper Madsen <jesper@sobuno.dk>
+Date:   Thu Sep 11 22:24:48 2014 +0800
+
+    Added "Essay No Edit" type
+    Fixed some dependency errors in Short Answer No Edit
+
+commit ad086bfeb6b17af26b5fb590ad9657bd841fd1dd
+Merge: 9cf7f27 004aa08
+Author: Jesper Madsen <jesper@sobuno.dk>
+Date:   Thu Sep 11 21:42:03 2014 +0800
+
+    Merge branch 'master' of https://github.com/Sobuno/OES
+
+commit 9cf7f275a973fd27820614064ba7e743805a1576
+Author: Jesper Madsen <jesper@sobuno.dk>
+Date:   Thu Sep 11 21:38:41 2014 +0800
+
+    Initial attempt at no editing short answers
+
+commit 004aa08f94623447844db31487db9a03529a14c7
+Author: Sobuno <jesper@sobuno.dk>
+Date:   Tue Sep 9 17:29:37 2014 +0800
+
+    Initial commit
